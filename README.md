@@ -1,6 +1,6 @@
 # DATS 2103: Data Mining – Final Project  
 📍 The George Washington University | Fall 2024  
-👩🏽‍💻 Created by Aba Pobee
+👩🏾‍💻 Created by Aba Pobee
 
 This repository contains the final project for DATS 2103: Data Mining, where I applied core predictive analytics concepts using Python to a real-world dataset. The project explores historical wage trends in the U.S. private sector and predicts future earnings using regression modeling, blending technical rigor with economic storytelling.
 
@@ -24,9 +24,10 @@ Using 50 years of data (1974–2024) from the U.S. Bureau of Labor Statistics, I
 
 ## 🗃️ Repository Contents
 
-- `final_report.pdf` – Project summary and visualizations (≤ 2,000 words)
-- `final_project.ipynb` – IPython notebook for data cleaning, modeling, and evaluation
-- `employment_data.csv` – Raw dataset compiled from BLS on wages and unemployment (1974–2024)
+- `2103_Final.ipynb` – Python notebook containing all data preparation, exploratory analysis, regression modeling, evaluation, and prediction steps.
+- `Earnings.csv` – Cleaned CSV file of average hourly earnings for private-sector employees (1974–2024), derived from BLS data.
+- `Earnings.xlsx` – Original raw dataset downloaded from the U.S. Bureau of Labor Statistics website in Excel format.
+- `Unemployment.csv` – Seasonally adjusted monthly unemployment rates (1974–2024), used as a key economic predictor.
 
 ---
 
